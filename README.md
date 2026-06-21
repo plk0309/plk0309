@@ -2,6 +2,12 @@
 
 <p align="center">
   <b>CS Student @ Bennett University · AI/ML Intern · Building things at the intersection of AI and real-world impact</b>
+</p>
+<p align="center">
+  <a href="mailto:palakverma0396@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/palak-verma-plk">💼 LinkedIn</a> •
+  <a href="https://github.com/plk0309">🐙 GitHub</a>
+</p>
 
 ## 🧠 About Me
 
