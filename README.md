@@ -1,131 +1,134 @@
-# Hi there!! I'm Palak Verma 👋
+<h1 align="center">Hi, I'm Palak Verma 👋</h1>
 
-## About Me
+<p align="center">
+  <b>CS Student @ Bennett University · AI/ML Intern · Building things at the intersection of AI and real-world impact</b>
+</p>
 
-I am a B.Tech Computer Science and Engineering student focused on building strong foundations in **software development, problem solving, backend systems, and applied machine learning**.
-I am particularly interested in writing structured, efficient code and developing projects that solve practical real-world problems through clean architecture and scalable design.
-
----
-
-## Area of Focus
-
-* Data Structures & Algorithms
-* Backend Development
-* Artificial Intelligence & Machine Learning
-* Database Systems
-* Operating Systems & Computer Science Fundamentals
-* Problem Solving with Java and Python
-* Open Source Readiness
+<p align="center">
+  <a href="mailto:palakverma0396@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/palak-verma">💼 LinkedIn</a> •
+  <a href="https://github.com/plk0309">🐙 GitHub</a>
+</p>
 
 ---
 
-## Skills
+## 🧠 About Me
 
-### Programming & Problem Solving
+I'm a third-year B.Tech CSE student at Bennett University (CGPA: 8.33) passionate about building AI-powered products that solve real problems — especially for Indian users and markets.
 
-* Java — OOP, Exception Handling, File I/O, Swing, JDBC, multithreading fundamentals
-* Python — scripting, core programming, data preprocessing, and ML workflows
-* C / C++ — DSA implementation, recursion, pointers, and systems fundamentals
-* JavaScript — frontend logic, DOM handling, and application behavior
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Time Complexity Analysis
-
-### Web Development & Backend
-
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* React (in progress)
-* Maven-based Java Projects
-* REST API fundamentals
-
-### Databases
-
-* MySQL — schema design, queries, normalization
-* MongoDB Atlas — NoSQL fundamentals and cloud-hosted databases
-* Core DBMS concepts — indexing, transactions, ACID properties
-
-### AI / ML
-
-* Machine Learning Fundamentals
-* Data Preprocessing
-* Model Training & Evaluation
-* Python-based ML workflows
-
-### Systems & Core CS
-
-* Operating Systems — processes, scheduling, system calls
-* Digital Logic Design
-* MIPS Assembly Programming
-* Process control using fork()
-* Memory concepts and low-level execution basics
+- 🔭 Currently interning at **Katharos Techie** — building an AI-powered e-commerce analytics platform with LLMs, semantic search, and anomaly detection
+- 🛠️ Recently shipped **Nyay AI** — a multilingual voice-enabled legal aid chatbot for Indian citizens, built with RAG, FAISS, and LLaMA 3.1
+- 🎯 Actively preparing for **campus placements** — targeting product companies and AI-first startups
+- 💡 I like building end-to-end: from model training → FastAPI backends → React frontends → cloud deployment
+- 📍 Based in India
 
 ---
 
-## Selected Work
+## 🚀 Featured Projects
 
-### Data Structures & Algorithms
+### ⚖️ [Nyay AI](https://nyay-ai-one.vercel.app) — Multilingual Legal Aid Chatbot
+> *Making Indian law accessible to everyone, in their own language and voice*
 
-Clean, well-documented solutions with emphasis on correctness, efficiency, and structured logic.
+A full-stack AI legal assistant designed for Indian citizens who lack access to legal expertise. Built across 9 phases from scratch.
 
-### Systems & Low-Level Programs
+- 🔍 **RAG pipeline** — ingested Indian legal documents into FAISS (~9,600 chunks), with Cohere reranking for precision retrieval
+- 🤖 **LLM** — Groq-hosted LLaMA 3.1-8B for fast, cost-effective inference
+- 🎙️ **Voice-enabled** — users can ask legal questions in their own language via voice input
+- 🔐 **Auth & persistence** — JWT authentication + PostgreSQL for session management
+- 🌐 **Stack**: FastAPI · React · FAISS · LangChain · Groq · Cohere · PostgreSQL · Railway · Vercel
 
-OS concepts, process control using `fork()`, and MIPS assembly programs with focus on understanding execution at system level.
-
-### Backend-Oriented Development
-
-Projects integrating logic, APIs, and databases with maintainable folder structure and modular design.
-
----
-
-## Certifications
-
-* Python Programming — Great Learning
-* Core Java Programming Revisited — Great Learning / Wingspan
-* Explore Machine Learning Using Python — Great Learning
-* Data Structures and Algorithms — Infosys Springboard
-* Introduction to Modern Database Systems — Saylor Academy
-* Introduction to Statistics — Saylor Academy
+[![Repo](https://img.shields.io/badge/GitHub-plk0309/nyay--ai-black?logo=github)](https://github.com/plk0309/nyay-ai)
+[![Live](https://img.shields.io/badge/Live-nyay--ai--one.vercel.app-brightgreen)](https://nyay-ai-one.vercel.app)
 
 ---
 
-## Projects
+### 🛒 AI Commerce Platform *(Internship Project — Katharos Techie)*
+> *Intelligent analytics layer for e-commerce decision-making*
 
-### Carbon Footprint Calculator
+An AI-powered commerce analytics backend built during my ML internship. Transforms raw retail data into business intelligence.
 
-A survey-oriented system designed to estimate household carbon emissions using factors such as electricity consumption, travel habits, waste generation, and family size.
+- 🔎 **Semantic product search** — FAISS + `all-MiniLM-L6-v2` embeddings for intent-aware search
+- 📊 **Smart ranking engine** — combines semantic similarity, product ratings, and popularity signals
+- 🤖 **Conversational analytics** — LLM-driven KPI summarization and anomaly detection assistant
+- 📈 **Analytics assistant** — natural language querying over multiple retail datasets (Phase 5)
+- 🌐 **Stack**: FastAPI · FAISS · HuggingFace · Python · Docker · LLMs
 
-### Healthcare Assistant System
-
-Backend-focused healthcare platform integrating symptom analysis, medicine guidance, mental health support modules, and database-driven functionality.
-
-### Weather and Soil Based Crop Prediction Model
-
-Machine learning project predicting suitable crops using environmental and soil parameters.
-
-### Student Performance Analytics System
-
-A database-backed academic analytics project for evaluating trends in student performance using structured query logic.
-
-### Smart Expense Tracker
-
-A full-stack expense management project designed to track, categorize, and analyze personal financial data.
+[![Repo](https://img.shields.io/badge/GitHub-plk0309/ai--commerce--platform-black?logo=github)](https://github.com/plk0309/ai-commerce-platform)
 
 ---
 
-## Current Direction
+### 🩺 Healthcare Assistant Application
+> *Multi-module health companion with ML-powered symptom analysis*
 
-* Strengthening DSA depth and consistency
-* Building backend-oriented projects with proper database integration
-* Preparing for open-source programs through issue reading, Git workflows, and contribution readiness
-* Improving project quality through documentation and modular code organization
+- Integrated symptom checker, mental health support, and health monitoring in one React + Node.js app
+- Trained a Random Forest model on healthcare datasets — **85% prediction accuracy**
+- **Stack**: React.js · Node.js · Scikit-Learn · Python
 
 ---
 
-## Contact
+### 📄 Resume Analyzer
+> *ATS scoring engine with hybrid NLP-based candidate-job matching*
 
-* GitHub: https://github.com/plk0309
-* LinkedIn: http://www.linkedin.com/in/palak-verma-491b8b325
-* Email: [palakverma0396@gmail.com](mailto:palakverma0396@gmail.com)
+- Built TF-IDF + cosine similarity scoring with semantic search for hybrid resume ranking
+- Designed manipulation detection and a Streamlit dashboard UI
+- **90%+ ranking consistency** across test cases
+- **Stack**: Python · Streamlit · NLP · Scikit-Learn
+
+---
+
+### 🌾 Crop Recommendation System
+> *ML-driven crop advisory for Indian farmers*
+
+- Random Forest model trained on 2,200+ agricultural records
+- Predicts optimal crops based on soil type, rainfall, temperature, and humidity
+- **87% prediction accuracy**
+- **Stack**: ML · Python · Next.js
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages       Java · Python · C++ · JavaScript · SQL
+Frontend        React.js · Next.js · HTML5 · CSS3
+Backend         FastAPI · Node.js · REST APIs
+AI/ML           PyTorch · TensorFlow · HuggingFace · Scikit-Learn
+                FAISS · LangChain · vector embeddings · RAG · LLMs
+Databases       PostgreSQL · MySQL · MongoDB
+Tools           Git · GitHub · Docker · Streamlit · Vercel · Railway
+```
+
+---
+
+## 📜 Certifications
+
+- Data Structures & Algorithms — *Infosys Springboard*
+- Machine Learning using Python — *Great Learning*
+- Core Java Programming — *Great Learning / Wingspan*
+- Database Systems — *Saylor Academy*
+- Statistics — *Saylor Academy*
+
+---
+
+## 🏆 Leadership
+
+**Design Team Head — RPA Club**
+Led design delivery for 5+ technical events; mentored junior designers; maintained club branding.
+
+**Sub-Head, IT Committee — Student Council**
+Coordinated 10+ college events; assisted with website updates and digital initiatives.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plk0309&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plk0309&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to SDE / ML internships and full-time roles starting 2028. Always happy to collaborate on AI products.</i>
+</p>
