@@ -120,15 +120,6 @@ Coordinated 10+ college events; assisted with website updates and digital initia
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plk0309&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plk0309&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to SDE / ML internships and full-time roles starting 2028. Always happy to collaborate on AI products.</i>
 </p>
