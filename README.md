@@ -15,7 +15,6 @@ I'm a third-year B.Tech CSE student at Bennett University (CGPA: 8.33) passionat
 
 - 🔭 Currently interning at **Katharos Techie** — building an AI-powered e-commerce analytics platform with LLMs, semantic search, and anomaly detection
 - 🛠️ Recently shipped **Nyay AI** — a multilingual voice-enabled legal aid chatbot for Indian citizens, built with RAG, FAISS, and LLaMA 3.1
-- 🎯 Actively preparing for **campus placements** — targeting product companies and AI-first startups
 - 💡 I like building end-to-end: from model training → FastAPI backends → React frontends → cloud deployment
 - 📍 Based in India
 
